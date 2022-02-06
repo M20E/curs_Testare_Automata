@@ -1,1 +1,1 @@
-# curs_Testare_Automata
+# curs_testare_automata
